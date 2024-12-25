@@ -1,5 +1,5 @@
 // TO Access the API go to openweathermap.org and API Doc and current weather api and Built in api request by city Name..
-
+ 
 function getWeather() {
     const cityInput = document.getElementById('cityInput').value;
     const apiKey = 'e228f81492fff4dc1361198f554d8d47';
